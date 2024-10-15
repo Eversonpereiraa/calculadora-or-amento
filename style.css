@@ -1,0 +1,68 @@
+#orcamento-form {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  #orcamento-form h3 {
+    color: #333;
+  }
+  
+  #orcamento-form label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  #orcamento-form input, #orcamento-form select, #orcamento-form button {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  #orcamento-form button {
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  #orcamento-form button:hover {
+    background-color: #005177;
+  }
+  
+  #orcamento-results table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  #orcamento-results table, #orcamento-results th, #orcamento-results td {
+    border: 1px solid #ddd;
+  }
+  
+  #orcamento-results th, #orcamento-results td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #orcamento-results th {
+    background-color: #f4f4f4;
+  }
+  
+  #orcamento-results button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #orcamento-results button i {
+    color: #d9534f;
+  }
+  
+  #orcamento-results button:hover i {
+    color: #c9302c;
+  }
+  
+  #buttons {
+    margin-top: 20px;
+  }
+  
